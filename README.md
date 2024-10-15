@@ -45,7 +45,8 @@ O chatbot capta mensagens dos usuários via API do Telegram, processa essas info
 
 A implementação de chatbots permite uma resposta rápida e eficiente às consultas dos clientes, aumentando a satisfação e otimizando o trabalho das equipes de atendimento.
 
-<a href="https://github.com/jeanmatheuss/projeto-final-EBAC/tree/main"> Link para o projeto</a>
+<a href="https://github.com/jeanmatheuss/projeto-final-EBAC/tree/main"> Link para o projeto.</a>
+
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -70,8 +71,9 @@ Página 1: O dashboard interativo apresenta dados gerais de vendas, COGS (Custo 
 Página 2: Nesta página, mostramos o lucro de 2013 e 2014, detalhado por país, segmento e produto. O maior lucro foi no segmento 'Government', com o produto 'Paseo' e a França como o país mais lucrativo.
 
 Página 3: A terceira página explora mais a fundo as vendas mensais e trimestrais, analisando os padrões sazonais e o desempenho ao longo do tempo.
+ 
+<a href="https://github.com/jeanmatheuss/SB-2023-PowerBi"> Link para o projeto.</a>
 
-<a href="https://github.com/jeanmatheuss/SB-2023-PowerBi"> Link para o projeto</a>
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -92,8 +94,9 @@ Página 3: A terceira página explora mais a fundo as vendas mensais e trimestra
 Neste projeto, integramos Python ao Google Sheets usando a API do Google para automatizar o armazenamento diário dos valores das ações obtidos pelo Yahoo Finance. O processo inclui a autorização da API, criação da planilha no Google Sheets, autenticação da conexão e execução do programa.
 
 Objetivo: Automatizar o registro dos valores de abertura (open), fechamento (close) e volume das principais ações do Brasil e dos EUA, facilitando o acompanhamento diário dessas informações.
+ 
+<a href="https://github.com/jeanmatheuss/api-sheets"> Link para o projeto.</a>
 
-<a href="https://github.com/jeanmatheuss/api-sheets"> Link para o projeto</a>
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -118,8 +121,8 @@ Divisão dos Dados:
 Casos de COVID-19: Dados de infectados e mortes são analisados por estado e incluem informações como números diários e acumulados, além de médias móveis de 7 dias.
 Vacinação: Dados sobre doses aplicadas (uma, duas e três doses) são extraídos, mostrando o progresso da vacinação no Brasil ao longo do tempo.
 O projeto oferece uma visão detalhada da evolução da pandemia e da vacinação no país, permitindo análises sobre o impacto do vírus e o avanço da imunização.
-
-<a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main"> Link para o projeto</a>
+ 
+<a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main"> Link para o projeto.</a>
 
 </div>
 
@@ -150,8 +153,8 @@ Conclusões:
 - A escolaridade não influencia o limite do cartão, mas a faixa salarial tem um impacto direto nos limites de crédito. 
 
 Essas análises ajudam a entender melhor o perfil dos clientes e suas relações com os produtos bancários.
-
-<a href="https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/projeto-SQL-EBAC.ipynb"> Link para o projeto</a>
+ 
+<a href="https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/projeto-SQL-EBAC.ipynb"> Link para o projeto.</a>
 
 </div>
 
