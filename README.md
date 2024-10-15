@@ -45,7 +45,7 @@ O chatbot capta mensagens dos usuários via API do Telegram, processa essas info
 
 A implementação de chatbots permite uma resposta rápida e eficiente às consultas dos clientes, aumentando a satisfação e otimizando o trabalho das equipes de atendimento.
 
-[Link para o projeto](https://github.com/jeanmatheuss/projeto-final-EBAC/tree/main)
+<a href="https://github.com/jeanmatheuss/projeto-final-EBAC/tree/main"> Link para o projeto</a>
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -71,7 +71,7 @@ Página 2: Nesta página, mostramos o lucro de 2013 e 2014, detalhado por país,
 
 Página 3: A terceira página explora mais a fundo as vendas mensais e trimestrais, analisando os padrões sazonais e o desempenho ao longo do tempo.
 
-[Link para o projeto](https://github.com/jeanmatheuss/SB-2023-PowerBi)
+<a href="https://github.com/jeanmatheuss/SB-2023-PowerBi"> Link para o projeto</a>
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -93,7 +93,7 @@ Neste projeto, integramos Python ao Google Sheets usando a API do Google para au
 
 Objetivo: Automatizar o registro dos valores de abertura (open), fechamento (close) e volume das principais ações do Brasil e dos EUA, facilitando o acompanhamento diário dessas informações.
 
-[Link para o projeto](https://github.com/jeanmatheuss/api-sheets)
+<a href="https://github.com/jeanmatheuss/api-sheets"> Link para o projeto</a>
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
@@ -119,7 +119,7 @@ Casos de COVID-19: Dados de infectados e mortes são analisados por estado e inc
 Vacinação: Dados sobre doses aplicadas (uma, duas e três doses) são extraídos, mostrando o progresso da vacinação no Brasil ao longo do tempo.
 O projeto oferece uma visão detalhada da evolução da pandemia e da vacinação no país, permitindo análises sobre o impacto do vírus e o avanço da imunização.
 
-[Link para o projeto](https://github.com/jeanmatheuss/EBAC-project2/tree/main)
+<a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main"> Link para o projeto</a>
 
 </div>
 
@@ -151,7 +151,7 @@ Conclusões:
 
 Essas análises ajudam a entender melhor o perfil dos clientes e suas relações com os produtos bancários.
 
-[Link para o projeto](https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/projeto-SQL-EBAC.ipynb)
+<a href="https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/projeto-SQL-EBAC.ipynb"> Link para o projeto</a>
 
 </div>
 
