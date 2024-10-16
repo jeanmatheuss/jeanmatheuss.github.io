@@ -149,13 +149,14 @@ O projeto oferece uma visão detalhada da evolução da pandemia e da vacinaçã
 Neste projeto, exploramos e analisamos um dataset de clientes bancários, segmentado por informações como idade, gênero, estado civil, faixa salarial, tipo de cartão e histórico de transações. Utilizando AWS Athena e dados armazenados em S3 Bucket, realizamos consultas SQL para extrair insights valiosos sobre o perfil dos clientes.
 
 Conclusões:
-
-- A maioria dos clientes possui mestrado, com apenas 14% sem educação formal.
-- 59% dos clientes são casados, enquanto 29% são solteiros.
-- Cerca de 95% dos clientes utilizam o cartão 'blue', independentemente da faixa de renda.
-- A maioria dos clientes ganha até $40K anuais, com mulheres ganhando até $60K e homens ganhando acima desse valor.
-- Clientes com maiores limites de crédito são predominantemente homens.
-- A escolaridade não influencia o limite do cartão, mas a faixa salarial tem um impacto direto nos limites de crédito. 
+<ul>
+ <li>A maioria dos clientes possui mestrado, com apenas 14% sem educação formal.</li>
+ <li>59% dos clientes são casados, enquanto 29% são solteiros.</li>
+ <li>Cerca de 95% dos clientes utilizam o cartão 'blue', independentemente da faixa de renda.</li>
+ <li>A maioria dos clientes ganham até $40K anuais, com mulheres ganhando até $60K e homens ganhando acima desse valor.</li>
+ <li>Clientes com maiores limites de crédito são predominantemente homens.</li>
+ <li>A escolaridade não influencia o limite do cartão, mas a faixa salarial tem um impacto direto nos limites de crédito.</li>
+</ul>
 
 Essas análises ajudam a entender melhor o perfil dos clientes e suas relações com os produtos bancários.
  
