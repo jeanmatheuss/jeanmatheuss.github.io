@@ -1,5 +1,3 @@
-## Jean Matheus (:
-
 Olá! Seja bem-vindo ao meu portfólio de projetos na área de análise de dados. Aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada, enquanto estou em transição para uma carreira na área de análise de dados.
 
 ### Sobre Mim 
@@ -29,10 +27,14 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 ---
 
 ### Você também pode me encontrar aqui:
-
-<a href="https://www.linkedin.com/in/jean-matheus-sm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div>
+<a href="https://www.linkedin.com/in/jean-matheus-sm/" rel="nofollow"><img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://github.com/jeanmatheuss"><img width="50" heidth="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"></a>
+  
+</div>
 
 ---
+
 
 <div style="display: flex;">
 
