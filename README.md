@@ -38,7 +38,7 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 
 <div style="flex: 1; padding-right: 10px;">
   
-### Pipeline de Dados do Telegram integrado ao AWS - Python & AWS 
+<h3><b> Pipeline de Dados do Telegram integrado ao AWS - Python & AWS </b></h3>
 
 Os chatbots, uma forma de IA conversacional, têm transformado a forma como as empresas interagem com os clientes, automatizando tarefas e fornecendo respostas imediatas. Neste projeto, mostramos como integrar um chatbot no Telegram para melhorar o atendimento ao cliente e gerar insights úteis.
 
@@ -64,7 +64,7 @@ A implementação de chatbots permite uma resposta rápida e eficiente às consu
 
 <div style="flex: 1; padding-right: 10px;">
   
-### Relatório de Vendas - Power BI  
+<h2><b>Relatório de Vendas - Power BI  </b></h2> 
 
 Neste projeto, utilizamos um dataset da Microsoft contendo informações de vendas de diversos segmentos (Government, Midmarket, Small Business, Channel Partners, Enterprise) e produtos (Carretera, Montana, Paseo, Velo, VTT, Amarilla).
 
@@ -92,7 +92,7 @@ Página 3: A terceira página explora mais a fundo as vendas mensais e trimestra
 
 <div style="flex: 1; padding-right: 10px;">
   
-### Integração do Python com o Google Sheets para armazenar os valores das ações 
+<h2><b>Integração do Python com o Google Sheets para armazenar os valores das ações </b></h2> 
 
 Neste projeto, integramos Python ao Google Sheets usando a API do Google para automatizar o armazenamento diário dos valores das ações obtidos pelo Yahoo Finance. O processo inclui a autorização da API, criação da planilha no Google Sheets, autenticação da conexão e execução do programa.
 
@@ -116,7 +116,7 @@ Objetivo: Automatizar o registro dos valores de abertura (open), fechamento (clo
 
 <div style="flex: 1; padding-right: 10px;">
   
-### Projeto COVID-19 casos e vacinação  
+<h2><b>Projeto COVID-19 casos e vacinação </b></h2>  
 
 Neste projeto, realizamos a extração e tratamento de dados sobre os casos de COVID-19 no Brasil, utilizando informações compiladas diariamente pela Johns Hopkins University, disponíveis no GitHub desde janeiro de 2020. Além disso, integramos dados de vacinação do projeto Our World in Data da University of Oxford, também atualizados diariamente.
 
@@ -144,7 +144,7 @@ O projeto oferece uma visão detalhada da evolução da pandemia e da vacinaçã
 
 <div style="flex: 1; padding-right: 10px;">
   
-### Análise de Dados de Clientes Bancários Usando SQL  
+<h2><b>Análise de Dados de Clientes Bancários Usando SQL  </b></h2> 
 
 Neste projeto, exploramos e analisamos um dataset de clientes bancários, segmentado por informações como idade, gênero, estado civil, faixa salarial, tipo de cartão e histórico de transações. Utilizando AWS Athena e dados armazenados em S3 Bucket, realizamos consultas SQL para extrair insights valiosos sobre o perfil dos clientes.
 
