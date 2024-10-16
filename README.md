@@ -38,7 +38,8 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 
 <div style="flex: 1; padding-right: 10px;">
   
-**Pipeline de Dados do Telegram integrado ao AWS - Python & AWS**  
+### Pipeline de Dados do Telegram integrado ao AWS - Python & AWS 
+
 Os chatbots, uma forma de IA conversacional, têm transformado a forma como as empresas interagem com os clientes, automatizando tarefas e fornecendo respostas imediatas. Neste projeto, mostramos como integrar um chatbot no Telegram para melhorar o atendimento ao cliente e gerar insights úteis.
 
 O chatbot capta mensagens dos usuários via API do Telegram, processa essas informações através de um pipeline de dados ETL (extração, transformação e carregamento) e armazena os dados em um sistema como AWS S3. Com isso, a empresa pode analisar as interações por meio de consultas SQL (AWS Athena) e visualizar informações relevantes.
@@ -63,7 +64,8 @@ A implementação de chatbots permite uma resposta rápida e eficiente às consu
 
 <div style="flex: 1; padding-right: 10px;">
   
-**Relatório de Vendas - Power BI**  
+### Relatório de Vendas - Power BI  
+
 Neste projeto, utilizamos um dataset da Microsoft contendo informações de vendas de diversos segmentos (Government, Midmarket, Small Business, Channel Partners, Enterprise) e produtos (Carretera, Montana, Paseo, Velo, VTT, Amarilla).
 
 Página 1: O dashboard interativo apresenta dados gerais de vendas, COGS (Custo dos Produtos Vendidos), descontos, lucro e unidades vendidas. Incluímos gráficos de vendas ao longo do tempo, por segmento, produto e país. O total de vendas foi de $118M, com lucro de $16,89M, sendo o segmento 'Government', o produto 'Paseo' e o país 'USA' os destaques.
@@ -90,7 +92,8 @@ Página 3: A terceira página explora mais a fundo as vendas mensais e trimestra
 
 <div style="flex: 1; padding-right: 10px;">
   
-**Integração do Python com o Google Sheets para armazenar os valores das ações**  
+### Integração do Python com o Google Sheets para armazenar os valores das ações 
+
 Neste projeto, integramos Python ao Google Sheets usando a API do Google para automatizar o armazenamento diário dos valores das ações obtidos pelo Yahoo Finance. O processo inclui a autorização da API, criação da planilha no Google Sheets, autenticação da conexão e execução do programa.
 
 Objetivo: Automatizar o registro dos valores de abertura (open), fechamento (close) e volume das principais ações do Brasil e dos EUA, facilitando o acompanhamento diário dessas informações.
@@ -113,7 +116,8 @@ Objetivo: Automatizar o registro dos valores de abertura (open), fechamento (clo
 
 <div style="flex: 1; padding-right: 10px;">
   
-**Projeto COVID-19 casos e vacinação**  
+### Projeto COVID-19 casos e vacinação  
+
 Neste projeto, realizamos a extração e tratamento de dados sobre os casos de COVID-19 no Brasil, utilizando informações compiladas diariamente pela Johns Hopkins University, disponíveis no GitHub desde janeiro de 2020. Além disso, integramos dados de vacinação do projeto Our World in Data da University of Oxford, também atualizados diariamente.
 
 Divisão dos Dados:
@@ -140,7 +144,8 @@ O projeto oferece uma visão detalhada da evolução da pandemia e da vacinaçã
 
 <div style="flex: 1; padding-right: 10px;">
   
-**Análise de Dados de Clientes Bancários Usando SQL**  
+### Análise de Dados de Clientes Bancários Usando SQL  
+
 Neste projeto, exploramos e analisamos um dataset de clientes bancários, segmentado por informações como idade, gênero, estado civil, faixa salarial, tipo de cartão e histórico de transações. Utilizando AWS Athena e dados armazenados em S3 Bucket, realizamos consultas SQL para extrair insights valiosos sobre o perfil dos clientes.
 
 Conclusões:
