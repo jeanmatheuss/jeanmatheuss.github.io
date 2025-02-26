@@ -18,14 +18,6 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 
 ---
 
-### Objetivo
-
-O objetivo deste repositório é documentar e compartilhar minha jornada na área de análise de dados, enquanto estou em transição para essa carreira. Este portfólio serve como uma vitrine dos projetos que desenvolvi, demonstrando minhas habilidades analíticas e conhecimentos técnicos.
-
-Além disso, busco conectar-me com profissionais e recrutadores da área, mostrando meu interesse e comprometimento com a análise de dados. Estou aberto a oportunidades desafiadoras, onde posso aplicar, explorar e extrair insights valiosos dos dados.
-
----
-
 ### Você também pode me encontrar aqui:
 <div>
 <a href="https://www.linkedin.com/in/jean-matheus-sm/" rel="nofollow"><img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
