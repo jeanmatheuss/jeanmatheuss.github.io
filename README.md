@@ -154,7 +154,7 @@ Neste projeto, exploramos e analisamos um dataset de clientes bancários, segmen
 
 Essas análises ajudam a entender melhor o perfil dos clientes e suas relações com os produtos bancários.
  
-<a href="https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/projeto-SQL-EBAC.ipynb"> Link para o projeto.</a>
+<a href="https://github.com/jeanmatheuss/jean-EBAC-SQL/blob/main/SQL_analise_credito.ipynb"> Link para o projeto.</a>
 
 </div>
 
