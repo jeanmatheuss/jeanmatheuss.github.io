@@ -27,68 +27,96 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 
 ---
 
-<div style="display: flex;">
-
-<div style="flex: 1; padding-right: 10px;">
-  
-<h3><b> Projeto: Pipeline Automatizado de Data Science com MLflow </b></h3>
-
-###  Visão Geral
-Este projeto foi desenvolvido com base nas metodologias **CRISP-DM** e **SEMMA**, estruturando um pipeline completo de **Ciência de Dados** — da extração de dados brutos à predição automatizada via **MLflow**.
-
-O objetivo foi criar uma arquitetura **modular, escalável e reprodutível**, garantindo eficiência e rastreabilidade em todas as etapas do processo.
-
----
-
-###  Fluxo do Projeto
-| Etapa | Descrição | Ferramentas |
-|:------|:-----------|:-------------|
-|  **Extração de Dados** | Coleta de dados brutos diretamente do **Kaggle** | Kaggle API |
-|  **Feature Stores (SQL)** | Criação e manipulação de *features* com **queries SQL** otimizadas | SQL, PostgreSQL |
-|  **Automação (Python)** | Desenvolvimento de script para execução automatizada das *feature stores* | Python, Pandas |
-|  **DataFrame Final** | Consolidação dos dados tratados em base única para ML | Pandas, NumPy |
-|  **Modelagem (MLflow)** | Treinamento, versionamento e rastreabilidade de modelos | Scikit-learn, MLflow |
-|  **Predição Automatizada** | Uso do modelo para inferências diretas em banco de dados | MLflow, SQL |
-
----
-
-
-###  Tecnologias Utilizadas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode" height="40"/>
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
-
----
-
-###  Resultados e Aprendizados
--  Pipeline **automatizado** e **escalável** de ponta a ponta  
--  Criação de **Feature Stores reutilizáveis**  
--  Integração entre **Python, SQL e MLflow**  
--  Registro e rastreamento de modelos com **versionamento estruturado**  
--  Predições automatizadas com atualização contínua dos dados  
-
----
-
-###  Metodologias Aplicadas
-> **CRISP-DM** – Estruturação do fluxo de trabalho desde a compreensão dos dados até a implementação.  
-> **SEMMA** – Preparação, modelagem e avaliação dos dados em ciclos iterativos de melhoria.
-
----
-
-<a href="https://github.com/jeanmatheuss/loyalty-predict"> Link para o projeto.</a>
+<div>
+    <h2><b> Projeto: Pipeline Automatizado de Data Science com MLflow</b></h2>
+    <h3> Visão Geral</h3>
+    <p>
+      Este projeto foi desenvolvido com base nas metodologias <b>CRISP-DM</b> e <b>SEMMA</b>, estruturando um pipeline completo de <b>Ciência de Dados</b> — da extração de dados brutos à predição automatizada via <b>MLflow</b>.<br><br>
+      O objetivo foi criar uma arquitetura <b>modular, escalável e reprodutível</b>, garantindo eficiência e rastreabilidade em todas as etapas do processo.
+    </p>
+</div>
+    <hr>
+    <h3> Fluxo do Projeto</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Etapa</th>
+          <th>Descrição</th>
+          <th>Ferramentas</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b> Extração de Dados</b></td>
+          <td>Coleta de dados brutos diretamente do <b>Kaggle</b></td>
+          <td>Kaggle API</td>
+        </tr>
+        <tr>
+          <td><b> Feature Stores (SQL)</b></td>
+          <td>Criação e manipulação de <i>features</i> com consultas SQL otimizadas</td>
+          <td>SQL, PostgreSQL</td>
+        </tr>
+        <tr>
+          <td><b> Automação (Python)</b></td>
+          <td>Script Python para execução automatizada das <i>Feature Stores</i></td>
+          <td>Python, Pandas</td>
+        </tr>
+        <tr>
+          <td><b> DataFrame Final</b></td>
+          <td>Consolidação dos dados tratados em base única para Machine Learning</td>
+          <td>Pandas, NumPy</td>
+        </tr>
+        <tr>
+          <td><b> Modelagem (MLflow)</b></td>
+          <td>Treinamento, versionamento e rastreabilidade de modelos</td>
+          <td>Scikit-learn, MLflow</td>
+        </tr>
+        <tr>
+          <td><b> Predição Automatizada</b></td>
+          <td>Uso do modelo para inferências diretas em banco de dados</td>
+          <td>MLflow, SQL</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <h3> Tecnologias Utilizadas</h3>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode" height="40">
+      <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=mlflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+    </p>
+    <hr>
+    <h3> Resultados e Aprendizados</h3>
+    <ul>
+      <li>Pipeline <b>automatizado</b> e <b>escalável</b> de ponta a ponta</li>
+      <li>Criação de <b>Feature Stores reutilizáveis</b></li>
+      <li>Integração entre <b>Python, SQL e MLflow</b></li>
+      <li>Registro e rastreamento de modelos com <b>versionamento estruturado</b></li>
+      <li>Predições automatizadas com atualização contínua dos dados</li>
+    </ul>
+    <hr>
+    <h3> Metodologias Aplicadas</h3>
+    <blockquote>
+      <b>CRISP-DM</b> – Estruturação do fluxo de trabalho desde a compreensão dos dados até a implementação.<br>
+      <b>SEMMA</b> – Preparação, modelagem e avaliação dos dados em ciclos iterativos de melhoria.
+    </blockquote>
+    <hr>
+    <p align="center">
+      <a href="https://github.com/jeanmatheuss/loyalty-predict" target="_blank" style="text-decoration:none; font-weight:bold;">
+         Link para o Projeto.
+      </a>
+    </p>
+  </div>
+  <!-- Imagem do projeto -->
+  <div style="flex: 1; min-width: 360px; text-align: center;">
+    <a href="https://github.com/jeanmatheuss/loyalty-predict" target="_blank">
+      <img src="https://github.com/jeanmatheuss/loyalty-predict/blob/main/img/fluxo.png?raw=true" alt="Fluxograma do Projeto" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </a>
+  </div>
 
 </div>
 
-<div style="flex: 1; padding-left: 10px;">
-  
-<a href="https://github.com/jeanmatheuss/loyalty-predict"><img src="https://github.com/jeanmatheuss/loyalty-predict/blob/main/img/fluxo.png?raw=true"></a>
-
-</div>
-
-</div>
 
 ---
 
