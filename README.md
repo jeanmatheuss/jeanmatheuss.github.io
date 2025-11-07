@@ -101,20 +101,18 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
       <b>SEMMA</b> – Preparação, modelagem e avaliação dos dados em ciclos iterativos de melhoria.
     </blockquote>
     <hr>
-    <p align="center">
-      <a href="https://github.com/jeanmatheuss/loyalty-predict" target="_blank" style="text-decoration:none; font-weight:bold;">
-         Link para o Projeto.
-      </a>
-    </p>
   </div>
   <!-- Imagem do projeto -->
   <div style="flex: 1; min-width: 360px; text-align: center;">
     <a href="https://github.com/jeanmatheuss/loyalty-predict" target="_blank">
       <img src="https://github.com/jeanmatheuss/loyalty-predict/blob/main/img/fluxo.png?raw=true" alt="Fluxograma do Projeto" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </a>
+       <p align="center">
+      <a href="https://github.com/jeanmatheuss/loyalty-predict" target="_blank" style="text-decoration:none; font-weight:bold;">
+         Link para o Projeto.
+      </a>
+    </p>
   </div>
-
-</div>
 
 
 ---
