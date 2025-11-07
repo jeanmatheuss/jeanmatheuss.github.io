@@ -34,7 +34,6 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
       Este projeto foi desenvolvido com base nas metodologias <b>CRISP-DM</b> e <b>SEMMA</b>, estruturando um pipeline completo de <b>Ciência de Dados</b> — da extração de dados brutos à predição automatizada via <b>MLflow</b>.<br><br>
       O objetivo foi criar uma arquitetura <b>modular, escalável e reprodutível</b>, garantindo eficiência e rastreabilidade em todas as etapas do processo.
     </p>
-</div>
     <hr>
     <h3> Fluxo do Projeto</h3>
     <table>
