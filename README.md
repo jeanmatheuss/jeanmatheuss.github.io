@@ -27,6 +27,70 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 
 ---
 
+<div style="display: flex;">
+
+<div style="flex: 1; padding-right: 10px;">
+  
+<h3><b> Projeto: Pipeline Automatizado de Data Science com MLflow </b></h3>
+
+###  Visão Geral
+Este projeto foi desenvolvido com base nas metodologias **CRISP-DM** e **SEMMA**, estruturando um pipeline completo de **Ciência de Dados** — da extração de dados brutos à predição automatizada via **MLflow**.
+
+O objetivo foi criar uma arquitetura **modular, escalável e reprodutível**, garantindo eficiência e rastreabilidade em todas as etapas do processo.
+
+---
+
+###  Fluxo do Projeto
+| Etapa | Descrição | Ferramentas |
+|:------|:-----------|:-------------|
+|  **Extração de Dados** | Coleta de dados brutos diretamente do **Kaggle** | Kaggle API |
+|  **Feature Stores (SQL)** | Criação e manipulação de *features* com **queries SQL** otimizadas | SQL, PostgreSQL |
+|  **Automação (Python)** | Desenvolvimento de script para execução automatizada das *feature stores* | Python, Pandas |
+|  **DataFrame Final** | Consolidação dos dados tratados em base única para ML | Pandas, NumPy |
+|  **Modelagem (MLflow)** | Treinamento, versionamento e rastreabilidade de modelos | Scikit-learn, MLflow |
+|  **Predição Automatizada** | Uso do modelo para inferências diretas em banco de dados | MLflow, SQL |
+
+---
+
+
+###  Tecnologias Utilizadas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+---
+
+###  Resultados e Aprendizados
+-  Pipeline **automatizado** e **escalável** de ponta a ponta  
+-  Criação de **Feature Stores reutilizáveis**  
+-  Integração entre **Python, SQL e MLflow**  
+-  Registro e rastreamento de modelos com **versionamento estruturado**  
+-  Predições automatizadas com atualização contínua dos dados  
+
+---
+
+###  Metodologias Aplicadas
+> **CRISP-DM** – Estruturação do fluxo de trabalho desde a compreensão dos dados até a implementação.  
+> **SEMMA** – Preparação, modelagem e avaliação dos dados em ciclos iterativos de melhoria.
+
+---
+
+<a href="https://github.com/jeanmatheuss/loyalty-predict"> Link para o projeto.</a>
+
+</div>
+
+<div style="flex: 1; padding-left: 10px;">
+  
+<a href="https://github.com/jeanmatheuss/loyalty-predict"><img src="https://github.com/jeanmatheuss/loyalty-predict/blob/main/img/fluxo.png?raw=true"></a>
+
+</div>
+
+</div>
+
+---
 
 <div style="display: flex;">
 
