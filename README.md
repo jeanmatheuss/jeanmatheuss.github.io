@@ -20,7 +20,7 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 
 ### Você também pode me encontrar aqui:
 <div>
-<a href="https://www.linkedin.com/in/jean-matheus-sm/" rel="nofollow"><img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/jean-matheus-sm/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://github.com/jeanmatheuss"><img width="50" heidth="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg"></a>
   
 </div>
@@ -113,6 +113,75 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
       </a>
     </p>
   </div>
+
+
+---
+<div>
+
+<h2>Análise do elenco do Sport Club Corinthians Paulista (2014 - 2024)</h2>
+
+<p>
+Projeto de análise de dados focado na identificação de padrões de desempenho dos diferentes elencos ao longo de diferentes temporadas, com ênfase em elenco campeões (2015 e 2017) e comparação de métricas-chave.
+</p>
+
+<p>
+🔗 <a href="https://github.com/jeanmatheuss/analise-corinthians">Link do Projeto.</a>
+</p>
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px;">
+
+<h3> Pipeline de Dados</h3>
+
+<ul>
+<li>Coleta automatizada via Power Query (Web Scraping - FBref)</li>
+<li>Extração em escala com múltiplas URLs parametrizadas</li>
+<li>Tratamento e padronização de dados (ETL)</li>
+<li>Modelagem para análise comparativa entre temporadas</li>
+</ul>
+
+<h3> Tratamento de Dados</h3>
+
+<ul>
+<li>Normalização de dados heterogêneos (2014–2023)</li>
+<li>Remoção de inconsistências e dados irrelevantes</li>
+<li>Transformação de variáveis (ex: adversário e país)</li>
+<li>Padronização de resultados para análise consistente</li>
+</ul>
+
+<h3> Análise</h3>
+
+<ul>
+<li>Análise exploratória de dados (EDA)</li>
+<li>Avaliação de métricas-chave: pontos, saldo de gols, desempenho</li>
+<li>Comparação entre temporadas campeãs e não campeãs</li>
+</ul>
+
+<h3> Destaques Técnicos</h3>
+
+<ul>
+<li>Automação completa da coleta de dados</li>
+<li>Pipeline reprodutível e escalável</li>
+<li>Tratamento de dados para análise histórica confiável</li>
+<li>Geração de insights orientados a dados</li>
+</ul>
+
+<h3> Tecnologias</h3>
+
+<p>Power Query • Excel • Power BI</p>
+
+</div>
+
+<div style="flex: 1; min-width: 300px; text-align: center;">
+
+<img src="https://github.com/jeanmatheuss/analise-corinthians/blob/main/img/dash_14-24-gif.gif?raw=true" alt="dash-gif" style="max-width: 100%; border-radius: 10px;">
+
+</div>
+
+</div>
 
 
 ---
